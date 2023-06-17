@@ -1,0 +1,6 @@
+[package]
+name = "tic-tac-toe-game-in-rust"
+version = "0.0.1"
+
+[dependencies]
+termcolor = "0.3"
